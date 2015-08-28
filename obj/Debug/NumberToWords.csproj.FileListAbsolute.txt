@@ -1,0 +1,9 @@
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\bin\Debug\NumberToWords.exe.config
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\bin\Debug\NumberToWords.exe
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\bin\Debug\NumberToWords.pdb
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.csprojResolveAssemblyReference.cache
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.MainInterface.resources
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.Properties.Resources.resources
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.csproj.GenerateResource.Cache
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.exe
+c:\users\hassan\documents\visual studio 2015\Projects\NumberToWords\NumberToWords\obj\Debug\NumberToWords.pdb
